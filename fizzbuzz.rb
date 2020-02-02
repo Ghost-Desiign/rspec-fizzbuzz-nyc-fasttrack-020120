@@ -11,5 +11,7 @@ def fizzbuzz(int)
   
   else int % 5 == 0
     "Buzz"
+    
+  int = nil
   end
 end
